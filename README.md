@@ -63,6 +63,4 @@ packer build -only=azure-arm.ubuntu main.pkr.hcl
 - Node.js 18 LTS
 - PM2 (process manager)
 - Nginx (reverse proxy)
-```
 
-Cópialo entero y pégalo en GitHub como `README.md`.
